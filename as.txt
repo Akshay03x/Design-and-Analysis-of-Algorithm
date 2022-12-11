@@ -1,0 +1,7 @@
+deecimal to binary
+to swap adjeecnet  element of one dimentional array
+two arrays [1,2,3,4,5] and [2.3.1.0,5,] find which number is not present in the second array 
+to print 
+1 2 3 4 5
+10 9 8 7 6
+11 12 13 14 15
